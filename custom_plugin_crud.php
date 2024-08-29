@@ -79,8 +79,8 @@ function ccp_form_shortcode(){
 
     ?>
     <section class="main-section">
-        <div class="container"> <!-- Replaced <container> with <div class="container"> -->
-            <div class="row form-row"> <!-- Replaced <row> with <div class="row form-row"> -->
+        <div class="container">
+            <div class="row form-row">
                 <div class="custom-crud-form">
                     <form id="ccp-form">
 
@@ -89,7 +89,7 @@ function ccp_form_shortcode(){
                         <textarea name="message" placeholder="Your Message" required></textarea>
                         <button type="submit">Submit</button>
                         
-                        <div id="ccp-message"></div> <!-- Added message container here -->
+                        <div id="ccp-message"></div>
                     </form>
                 </div>
             </div>
