@@ -9,4 +9,4 @@ AJAX Form Submission: Prevents page reloads and enhances user experience.
 Client-Side Validation: Ensures data integrity before submission using the jQuery Validation Plugin.
 Custom Database Table: Stores user-submitted data efficiently.
 Easy to Use: Insert the form anywhere using a simple shortcode [ccp_form].
-File Structure
+
